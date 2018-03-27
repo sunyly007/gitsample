@@ -15,9 +15,9 @@ public class App
         System.out.println("upgrade 03");
         System.out.println("upgrade 04");
         System.out.println("upgrade 05");
-        System.out.println("change on master 01");
         System.out.println("change to DEV branch...");
         System.out.println("update change for DEV branch...");
         System.out.println("change master V2 01");
+        System.out.println("change DEV V2 01");
     }
 }
